@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+}
+
+.container-fluid {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.col {
+    margin: 5px;
+}
+
+.row {
+    align-content: center;
+}
+img {
+    height: 500px;
+    width: 10px;
+}
+
